@@ -1,5 +1,5 @@
 # Prerequisites
-#
+# Renamed the file
 - JDK 11
 - Maven 3
 - MySQL 8 
