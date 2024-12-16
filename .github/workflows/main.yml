@@ -9,11 +9,6 @@ jobs:
 
       - name: Maven test
         run: mvn test
-<<<<<<< HEAD
-
-=======
-      
->>>>>>> b12d358d5dbee68f89fcbd186a84b56fe801abb3
       - name: Checkstyle
         run: mvn checkstyle:checkstyle
 
